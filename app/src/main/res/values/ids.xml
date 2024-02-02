@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="BugattiFragment" type="id" />
+    <item name="MsglowFragment" type="id" />
+    <item name="ScarlettFragment" type="id" />
+    <item name="WardahFragment" type="id" />
+</resources>
