@@ -1,0 +1,60 @@
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+    android:rowCount="2"
+    android:alignmentMode="alignBounds"
+    android:useDefaultMargins="true" >
+
+    <ImageView
+        android:id="@+id/btnHello"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="15dp"
+        android:src="@drawable/helloacound" />
+
+    <ImageView
+        android:id="@+id/btnCount"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginEnd="15dp"
+        android:src="@drawable/count" />
+
+    <ImageView
+        android:id="@+id/btnScrollice"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/scrollice" />
+
+    <ImageView
+        android:id="@+id/btnTwoActivity"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/twoact" />
+
+    <ImageView
+        android:id="@+id/btnAlarm"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/alarm" />
+
+    <ImageView
+        android:id="@+id/btnMaps"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/maps" />
+
+    <ImageView
+        android:id="@+id/btnFragment"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/pbeauty" />
+
+</GridLayout>
